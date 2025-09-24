@@ -20,22 +20,6 @@
 
 ---
 
-## 🎯 Objetivos
-- Concluir o **Bootcamp T-Academy** com excelência  
-- Consolidar conhecimentos em **Back-end**  
-- Conquistar uma **vaga de estágio ou júnior**  
-- Evoluir constantemente em **tecnologias modernas**  
-- Expandir meu **networking profissional**  
-
----
-
-## 📚 Formação & Treinamentos
-- 🎓 **Ciência da Computação** – FURB  
-- 🏫 **Bootcamp T-Academy de Suporte AMS** – T-Systems & ProWay  
-
----
-
-## 🔧 Tecnologias & Ferramentas
 
 <p align="center">
   <!-- Linguagens e Frameworks -->
@@ -52,12 +36,26 @@
   <!-- Ferramentas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50"/>
 </p>
 
 <p align="center">
-  Java • Spring • JavaScript • HTML5 • CSS3 • MySQL • MariaDB • Git • GitHub • Postman
+  Java • Spring • JavaScript • HTML5 • CSS3 • MySQL • MariaDB • Git • GitHub
 </p>
+
+
+## 🎯 Objetivos
+- Concluir o **Bootcamp T-Academy** com excelência  
+- Consolidar conhecimentos em **Back-end**  
+- Conquistar uma **vaga de estágio ou júnior**  
+- Evoluir constantemente em **tecnologias modernas**  
+- Expandir meu **networking profissional**  
+
+---
+
+## 📚 Formação & Treinamentos
+- 🎓 **Ciência da Computação** – FURB  
+- 🏫 **Bootcamp T-Academy de Suporte AMS** – T-Systems & ProWay  
+
 
 
 
