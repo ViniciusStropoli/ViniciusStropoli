@@ -44,7 +44,6 @@
 
 
 ## 🎯 Objetivos
-- Concluir o **Bootcamp T-Academy** com excelência  
 - Consolidar conhecimentos em **Back-end**  
 - Conquistar uma **vaga de estágio ou júnior**  
 - Evoluir constantemente em **tecnologias modernas**  
