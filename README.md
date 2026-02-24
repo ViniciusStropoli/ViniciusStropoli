@@ -15,8 +15,8 @@
 ---
 
 💻 Estudante de **Ciência da Computação na FURB (Universidade Regional de Blumenau)**  
-🎓 Participante do **T-Academy** – Formação corporativa da **T-Systems** com foco em Java, APIs REST, Cloud, DevOps, ITIL, Banco de Dados, ServiceNow e Jira  
-🚀 Apaixonado por tecnologia, buscando oportunidades em **desenvolvimento de software**  
+🎓 Participei do **T-Academy** – Formação corporativa da **T-Systems** com foco em Java, APIs REST, Cloud, DevOps, ITIL, Banco de Dados, ServiceNow e Jira  
+🚀 Apaixonado por tecnologia, estabelecendo meu espaço na area do **desenvolvimento de software**  
 
 ---
 
