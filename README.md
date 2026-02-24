@@ -9,12 +9,13 @@
 ╚████╔╝ ██║██║ ╚████║██║╚██████╗██║ ╚████╔╝ ███████║
 ╚═══╝  ╚═╝╚═╝  ╚═══╝╚═╝ ╚═════╝╚═╝  ╚═══╝  ╚══════╝
 </pre>
-  Estudante de Ciência da Computação | Back-end em formação | T-Academy (T-Systems/ProWay)
+  Estudante de Ciência da Computação | Ful Stack | T-Systems
 </div>
 
 ---
 
 💻 Estudante de **Ciência da Computação na FURB (Universidade Regional de Blumenau)**  
+💼 Full Stack Developer na **T-Systems do Brasil**
 🎓 Participei do **T-Academy** – Formação corporativa da **T-Systems** com foco em Java, APIs REST, Cloud, DevOps, ITIL, Banco de Dados, ServiceNow e Jira  
 🚀 Apaixonado por tecnologia, estabelecendo meu espaço na area do **desenvolvimento de software**  
 
@@ -26,33 +27,47 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" heigth="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
 
   <!-- Banco de Dados -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MariaDB" width="50" height="50"/>
 
   <!-- Ferramentas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="MariaDB" width="50" height="50"/>
 </p>
 
 <p align="center">
-  Java • Spring • JavaScript • HTML5 • CSS3 • MySQL • MariaDB • Git 
+  Java • Spring • JavaScript • Typescript • HTML • CSS • MySQL • MariaDB • MongoDB • Git • Docker
 </p>
 
 
 ## 🎯 Objetivos
-- Consolidar conhecimentos em **Back-end**  
-- Conquistar uma **vaga de estágio ou júnior**  
+- Consolidar cada vez mais meu **conhecimento** 
+- Conquistar a **efetivação como júnior**  
 - Evoluir constantemente em **tecnologias modernas**  
 - Expandir meu **networking profissional**  
 
 ---
 
+
+
+
 ## 📚 Formação & Treinamentos
 - 🎓 **Ciência da Computação** – FURB  
-- 🏫 **Bootcamp T-Academy de Suporte AMS** – T-Systems & ProWay  
+- 🏫 **T-Academy de Suporte AMS** – T-Systems & ProWay  
+
+
+
+
+
+---
+
+
 
 
 
