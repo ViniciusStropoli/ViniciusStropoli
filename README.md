@@ -35,11 +35,10 @@
 
   <!-- Ferramentas -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
 </p>
 
 <p align="center">
-  Java • Spring • JavaScript • HTML5 • CSS3 • MySQL • MariaDB • Git • GitHub
+  Java • Spring • JavaScript • HTML5 • CSS3 • MySQL • MariaDB • Git 
 </p>
 
 
